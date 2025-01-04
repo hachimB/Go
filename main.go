@@ -68,6 +68,8 @@ func main() {
 	**/
 
 	/*
-	**/
-	generic()
+		generic()
+		**/
+
+	pointer()
 }
