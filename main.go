@@ -67,9 +67,12 @@ func main() {
 	errorHandler()
 	**/
 
-	/*
-		generic()
-		**/
+	/*generic()**/
 
-	pointer()
+	/*pointer()**/
+
+	goroutine()
+
+	// groutines()
+	// pingPong()
 }
